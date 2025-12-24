@@ -1,3 +1,7 @@
+## 🚀 Download (Recommended)
+
+👉 **[Download Notes App v1.0](https://github.com/xxaiden3/NotesApp_v1/releases/latest)**
+
 🎉 First stable release of Notes App.
 
 🔹 Portable WinForms application  
